@@ -4,6 +4,35 @@ Project developed using **NVIDIA Kit-CAE**, **NVIDIA Omniverse**, and **OpenUSD*
 
 The project focuses on scientific visualization of CFD data around a vehicle, including velocity fields, pressure distribution, streamlines, volumetric visualization, planar slices, and animated flow.
 
+## CFD Visualizations
+
+### Streamlines — Airflow Around the Vehicle
+
+![Streamlines](images/streamlines.png)
+
+Streamline visualization generated from the CFD velocity field using the `Velocity_0`, `Velocity_1`, and `Velocity_2` components.
+
+The streamlines represent the airflow trajectories around the vehicle, making it possible to observe how the flow follows the body geometry and develops behind the vehicle.
+
+
+### NVIDIA Omniverse Flow — Animated Airflow
+
+<img width="1591" height="1207" alt="WhatsApp Image 2026-08-18 at 01 27 22" src="https://github.com/user-attachments/assets/d416db82-8ad8-43e2-b6ea-f16882b2bb69" />
+
+Animated airflow visualization created using NVIDIA Omniverse Flow.
+
+The CFD velocity field is transferred to a Flow simulation through a Dataset Injector, producing a dynamic representation of the airflow around the vehicle and its wake region.
+
+
+### Planar Slice — Flow Field Visualization
+
+![Planar Slice](images/planar-slice.png)
+
+Planar Slice visualization used to inspect the CFD field across a specific section of the simulation domain.
+
+The slice provides a continuous 2D representation of the simulation data around the vehicle, making variations in the flow field easier to identify and analyze.
+
+
 ## Project Overview
 
 The objective of this project was to learn how engineering simulation data can be imported, explored, and visualized inside NVIDIA Kit-CAE.
