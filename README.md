@@ -26,8 +26,7 @@ The CFD velocity field is transferred to a Flow simulation through a Dataset Inj
 
 
 ### Planar Slice — Flow Field Visualization
-
-![Planar Slice](images/planar-slice.png)
+<img width="1591" height="1207" alt="WhatsApp Image 2026-08-18 at 01 27 46" src="https://github.com/user-attachments/assets/f2061b5f-5441-4ffb-9e5d-89f89b116b50" />
 
 Planar Slice visualization used to inspect the CFD field across a specific section of the simulation domain.
 
