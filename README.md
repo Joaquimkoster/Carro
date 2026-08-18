@@ -8,7 +8,8 @@ The project focuses on scientific visualization of CFD data around a vehicle, in
 
 ### Streamlines — Airflow Around the Vehicle
 
-![Streamlines](images/streamlines.png)
+<img width="1591" height="1207" alt="WhatsApp Image 2026-08-18 at 01 27 22" src="https://github.com/user-attachments/assets/d416db82-8ad8-43e2-b6ea-f16882b2bb69" />
+
 
 Streamline visualization generated from the CFD velocity field using the `Velocity_0`, `Velocity_1`, and `Velocity_2` components.
 
@@ -17,7 +18,7 @@ The streamlines represent the airflow trajectories around the vehicle, making it
 
 ### NVIDIA Omniverse Flow — Animated Airflow
 
-<img width="1591" height="1207" alt="WhatsApp Image 2026-08-18 at 01 27 22" src="https://github.com/user-attachments/assets/d416db82-8ad8-43e2-b6ea-f16882b2bb69" />
+<img width="1591" height="1207" alt="WhatsApp Image 2026-08-18 at 01 27 35" src="https://github.com/user-attachments/assets/227224ac-a52f-4900-864c-1fb25a8a4689" />
 
 Animated airflow visualization created using NVIDIA Omniverse Flow.
 
